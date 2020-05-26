@@ -19,10 +19,10 @@ Most generic Discord.js bot created with the help of https://discordjs.guide/#be
 ## Make it Yours!
 
 To make this bot yours, simply clone the files and add a `config.json` inside of the main repository. Mine looks like this: 
-  ```json
+```json
 {
     "prefix": "_",
-    "token": "<insert token>"
+    "token": "your-token-here"
 }
 ```
 
