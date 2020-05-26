@@ -32,7 +32,7 @@ Be sure to install all the packages listed in `package.json`, `package-lock.json
 
 ## Dev Mode
 
-Dev mode is an easy way to develop your bot without having to restart it every time an update occurs. Install [nodemon](https://www.npmjs.com/package/nodemon) `npm install --save-dev nodemon`, and run `npm run dev` which will run the dev command from `package.json`.
+Dev mode is an easy way to develop your bot without having to restart it every time an update occurs. Install <a href="https://www.npmjs.com/package/nodemon" target="_blank" rel="noopener">nodemon</a> `npm install --save-dev nodemon`, and run `npm run dev` which will run the dev command from `package.json`.
 
 
 ## Hosting
